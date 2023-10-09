@@ -1,8 +1,8 @@
 # BOB12th_CVEIssacGleaning
 
-project team in BoB(a.k.a [Best of the Best](https://www.kitribob.kr/)) in Republic of Korea. ([CVEIssacGleaning@gmail.com](mailto:CVEIssacGleaning@gmail.com))
+Project Team in BoB(a.k.a [Best of the Best](https://www.kitribob.kr/)) in Republic of Korea. ([CVEIssacGleaning@gmail.com](mailto:CVEIssacGleaning@gmail.com))
 
-finding bugs in ROS2 and DDS 
+Finding Bugs in ROS2 and DDS 
 
 
 ## Team Members
