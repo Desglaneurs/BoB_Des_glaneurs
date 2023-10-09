@@ -10,4 +10,4 @@ Finding Bugs in ROS2 and DDS
 
 **Project Leader**: 이인형
 
-**Project Mentor**: 이상섭([k1rh4](https://github.com/k1rh4)), 정광운
+**Project Mentor**: 이상섭([k1rh4](https://github.com/k1rh4)), 정광운([pr0ln](https://github.com/pr0ln))
