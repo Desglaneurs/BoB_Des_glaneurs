@@ -1,4 +1,4 @@
-# BOB12th_CVEIssacGleaning
+# BOB12th_Des_glaneurs
 
 Project Team in BoB(a.k.a [Best of the Best](https://www.kitribob.kr/)) in Republic of Korea. ([CVEIssacGleaning@gmail.com](mailto:CVEIssacGleaning@gmail.com))
 
