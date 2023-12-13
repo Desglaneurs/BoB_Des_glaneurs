@@ -31,7 +31,11 @@ We recorded the vulnerability research conducted on ROS2 and DDS over a period o
    1. ROS2
    2. DDS
    3. RTPS
+
 2. Logical 취약점 분석
+   1. 개요 및 Attack Vector
+   2. HeartBeat Sequence Attack
+   3. RTPS 연결 해제 Attack
 
 3. Fuzzer
 
