@@ -21,8 +21,8 @@ We recorded the vulnerability research conducted on ROS2 and DDS over a period o
 ## Table of Contents
 
 ### 소개
-1. [연구배경 및 목표](https:/)
-2. [선행 연구](https://)
+1. [연구배경 및 목표](https://github.com/Desglaneurs/BoB_Des_glaneurs/blob/main/Introduction/Research%20background%20and%20goals.md)
+2. [선행 연구](https://github.com/Desglaneurs/BoB_Des_glaneurs/blob/main/Introduction/Previous%20studies.md)
 
 
 ### 수행 과정
