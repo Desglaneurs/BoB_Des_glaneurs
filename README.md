@@ -26,7 +26,7 @@ We recorded the vulnerability research conducted on ROS2 and DDS over a period o
 
 
 ### 수행 과정
-1. 사전 준비
+1. [사전 준비](https://github.com/Desglaneurs/BoB_Des_glaneurs/tree/main/performance%20process/pre-study)
    1. ROS2
    2. DDS
    3. RTPS
