@@ -17,29 +17,3 @@ We recorded the vulnerability research conducted on ROS2 and DDS over a period o
 ### Advisor
 *이상섭([k1rh4](https://github.com/k1rh4)), 이인형([2Doll](https://github.com/2Doll)), 정광운([pr0ln](https://github.com/pr0ln))*
 
-
-
-## Table of Contents
-
-### 소개
-1. [연구배경 및 목표](https://github.com/Desglaneurs/BoB_Des_glaneurs/blob/main/Introduction/Research%20background%20and%20goals.md)
-2. [선행 연구](https://github.com/Desglaneurs/BoB_Des_glaneurs/blob/main/Introduction/Previous%20studies.md)
-
-
-### 수행 과정
-1. [사전 준비](https://github.com/Desglaneurs/BoB_Des_glaneurs/tree/main/performance%20process/pre-study)
-   1. ROS2
-   2. DDS
-   3. RTPS
-
-2. Logical 취약점 분석
-   1. 개요 및 Attack Vector
-   2. HeartBeat Sequence Attack
-   3. RTPS 연결 해제 Attack
-
-3. Fuzzer
-
-4. 취약점 실증
-
-### 결과
-1. [프로젝트 성과](https://)
