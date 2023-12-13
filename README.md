@@ -1,10 +1,11 @@
 # BoB12th_Des_glaneurs
 
 본 프로젝트는 KITRI BoB(Best of the Best) 12기에서 진행한 프로젝트입니다.
-3개월 동안 ROS2와 DDS에 대한 취약성 연구를 진행한 내용을 기록하였습니다.
+4개월 동안 ROS2와 DDS에 대한 취약성 연구를 진행한 내용을 기록하였습니다.
 
 This project was carried out by the 12th KITRI BoB (a.k.a [Best of the Best](https://www.kitribob.kr/)).
-We recorded the vulnerability research conducted on ROS2 and DDS over a period of three months.
+We recorded the vulnerability research conducted on ROS2 and DDS over a period of four months.
+
 ([CVEIssacGleaning@gmail.com](mailto:CVEIssacGleaning@gmail.com))
 
 
@@ -17,3 +18,23 @@ We recorded the vulnerability research conducted on ROS2 and DDS over a period o
 *이상섭([k1rh4](https://github.com/k1rh4)), 이인형([2Doll](https://github.com/2Doll)), 정광운([pr0ln](https://github.com/pr0ln))*
 
 
+## Table of Contents
+
+### 소개
+1. [연구배경 및 목표](https:/)
+2. [선행 연구](https://)
+
+
+### 수행 과정
+1. 사전 준비
+   1. ROS2
+   2. DDS
+   3. RTPS
+2. Logical 취약점 분석
+
+3. Fuzzer
+
+4. 취약점 실증
+
+### 결과
+1. [프로젝트 성과](https://)
