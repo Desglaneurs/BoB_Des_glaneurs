@@ -1,8 +1,11 @@
 # BoB12th_Des_glaneurs
 
-Project Team in BoB(a.k.a [Best of the Best](https://www.kitribob.kr/)) in Republic of Korea. ([CVEIssacGleaning@gmail.com](mailto:CVEIssacGleaning@gmail.com))
+본 프로젝트는 KITRI BoB(Best of the Best) 12기에서 진행한 프로젝트입니다.
+3개월 동안 ROS2와 DDS에 대한 취약성 연구를 진행한 내용을 기록하였습니다.
 
-Finding Bugs in ROS2 and DDS 
+This project was carried out by the 12th KITRI BoB (a.k.a [Best of the Best](https://www.kitribob.kr/)).
+We recorded the vulnerability research conducted on ROS2 and DDS over a period of three months.
+([CVEIssacGleaning@gmail.com](mailto:CVEIssacGleaning@gmail.com))
 
 
 ## Team Members
