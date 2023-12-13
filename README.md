@@ -5,7 +5,8 @@
 
 This project was carried out by the 12th KITRI BoB (a.k.a [Best of the Best](https://www.kitribob.kr/)).
 We recorded the vulnerability research conducted on ROS2 and DDS over a period of four months.
-([CVEIssacGleaning@gmail.com](mailto:CVEIssacGleaning@gmail.com))
+([CVEIssacGleaning@gmail.com]
+(mailto:CVEIssacGleaning@gmail.com))
 
 
 ## Team Members
