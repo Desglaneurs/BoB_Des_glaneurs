@@ -20,3 +20,5 @@ We recorded the vulnerability research conducted on ROS2 and DDS over a period o
 ## Contribution
 <a href="https://github.com/eProsima/Fast-DDS/graphs/contributors#:~:text=%2395-,Desglaneurs,-1%20commit%20%C2%A0%C2%A0"><img src="https://avatars.githubusercontent.com/u/6390783?s=200&v=4" width="15%" />
 </a>
+
+found a vuln & patched a vuln by [hyuntaeLee](https://github.com/hyuntaeLee),[dhkstnrh](https://github.com/dhkstnrh)
