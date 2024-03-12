@@ -1,2 +1,0 @@
-- We analyzed the flow of a normal Subscriber and the flow of a Subscriber after an attack using the Uftrace tool.
-- Packet flow when an attacker sends a data (p[UD]) packet
