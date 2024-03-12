@@ -8,7 +8,6 @@ We recorded the vulnerability research conducted on ROS2 and DDS over a period o
 ([CVEIssacGleaning@gmail.com]
 
 
-
 ## Team Members
 
 고수완([dhkstnrh](https://github.com/dhkstnrh)), 곽도원([douneo](https://github.com/douneo)), 이예지([ruruby](https://github.com/ruruby)), 이준권([kwonl57](https://github.com/kwonl57)), 이현태([hyuntaeLee](https://github.com/hyuntaeLee)), 최은선([choc0villain](https://github.com/choc0villain))
@@ -17,3 +16,7 @@ We recorded the vulnerability research conducted on ROS2 and DDS over a period o
 ### Advisor
 *이상섭([k1rh4](https://github.com/k1rh4)), 이인형([2Doll](https://github.com/2Doll)), 정광운([pr0ln](https://github.com/pr0ln))*
 
+
+## Contribution
+<a href="https://github.com/eProsima/Fast-DDS/graphs/contributors#:~:text=%2395-,Desglaneurs,-1%20commit%20%C2%A0%C2%A0"><img src="https://avatars.githubusercontent.com/u/6390783?s=200&v=4" width="15%" />
+</a>
