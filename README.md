@@ -10,7 +10,7 @@ We recorded the vulnerability research conducted on ROS2 and DDS over a period o
 
 ## Team Members
 
-고수완([dhkstnrh](https://github.com/dhkstnrh)), 곽도원([douneo](https://github.com/douneo)), 이예지([ruruby](https://github.com/ruruby)), 이준권([kwonl57](https://github.com/kwonl57)), 이현태([hyuntaeLee](https://github.com/hyuntaeLee)), 최은선([choc0villain](https://github.com/choc0villain))
+고수완([dhkstnrh](https://github.com/dhkstnrh)), 곽도원([douneo](https://github.com/douneo)), 이예지([ruruby](https://github.com/ruruby)), 이준권([kwonl57](https://github.com/kwonl57)), 이현태([bl4ckhyun](https://github.com/bl4ckhyun)), 최은선([choc0villain](https://github.com/choc0villain))
 
 
 ### Advisor
@@ -21,4 +21,4 @@ We recorded the vulnerability research conducted on ROS2 and DDS over a period o
 <a href="https://github.com/eProsima/Fast-DDS/commit/74b2a74ef339816b6fef448efa676042a339b2e3"><img src="https://avatars.githubusercontent.com/u/6390783?s=200&v=4" width="15%" />
 </a>
 
-found a vuln & patched a vuln by **이현태**[hyuntaeLee](https://github.com/hyuntaeLee),**고수완**[dhkstnrh](https://github.com/dhkstnrh)
+found a vuln & patched a vuln by **이현태**[bl4ckhyun](https://github.com/bl4ckhyun),**고수완**[dhkstnrh](https://github.com/dhkstnrh)
